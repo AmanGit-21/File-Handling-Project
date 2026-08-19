@@ -31,7 +31,7 @@ streamlit run file_manager_app.py
 This project was built while learning Python and exploring how backend 
 file-handling logic (originally a CLI script using `input()`) can be 
 converted into an interactive web app using Streamlit. It's part of my 
-learning journey toward becoming a Data Engineer.
+learning journey toward becoming a AI/ML Engineer.
 
 🙋 Author
 Built by Aman Yadav, aspiring AI/ML Engineer.
